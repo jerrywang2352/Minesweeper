@@ -1,7 +1,6 @@
-from tkinter import filedialog
-from tkinter import messagebox
+from tkinter import *
+from MineCell import MineCell
 import random
-import MineCell
 
 class MineGrid(Frame):
     '''object for a minesweeper grid'''

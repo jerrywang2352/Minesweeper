@@ -1,6 +1,5 @@
 from tkinter import *
 
-
 class MineCell(Label):
     '''represent a Minesweeper cell'''
 
